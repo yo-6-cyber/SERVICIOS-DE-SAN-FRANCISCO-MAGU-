@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	 <link rel="stylesheet" href="style.css">
+    <title> Servicios de la delegación y COPACI de San Francisco Magu</title>
+</head>
+<body>
+    <div id="contenedor">
+                <header id="encabezado">
+<h1>
+    Servicios de la delegación y COPACI de San Francisco Magu
+</h1>
+
+              <nav id="menu">
+            <a href="index.html">INICIO<dr></a>
+            
+        </nav>
+    <p> COPACI y Delegación  son los que representantes del pueblo de San Francisco Magú y Servicios de Magú, éstos ofrecen sus servicios a los pobladores.</p>
+          
+            <h2>Mapa de San Francisco Magu </h2>
+            
+        
+    
+    
+<p> "Mapa de la comunidad de San Francisco Magu"</p>
+    <img src= https://img.lamudi.com.mx/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci85ZDZiMmVkOC04MzFhLTMxZmUtYTZhYy01YmVlM2NlNjUwMDUvM2FiYmJiZjlkMmRiYzcwNzJiOWM3N2FhNTRmZWU4YWMyNmEwNjM3MTExZTAwMDFmZTEwMTI3NDRlMGE4OTI1OS5qcGVnIiwiYnJhbmQiOiJsYW11ZGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6MzIwLCJoZWlnaHQiOjI0MCwiZml0IjoiY292ZXIifX19 alt="mapa de la comunidad">
+    
+          
+            
+        <h2> HISTORIA </h2>
+<p> San Francisco Magú es un poblado histórico, originario del siglo XII, con raíces otomíes en el Valle de México. Su nombre, inicialmente Nazcahuacan, fue cambiado a Magú, derivado de la frase "maga ngú", que significa "me voy a mi casa" en otomí. San Francisco Magú es conocido por su historia ancestral, que combina el cristianismo con las costumbres otomíes. 
+
+Está situado en el Municipio de Nicolás Romero, al centro del norte del Estado de México, a 43 kilómetros al norte de la ciudad de México. Se encuentra a 2490 metros de altitud, el municipio limita al norte con Villa del Carbón y Tepotzotlán, al sur con Atizapán de Zaragoza e Isidro Fabela, al este con Cuautitlán Izcalli, al oeste con Jiquipilco y Temoaya.
+Cabe destacar que esta localidad es la única en todo México que está exenta de impuestos por un decreto virreinal de Juan Antonio de Vizarrón afirmado por Benito Juárez y Luis Echeverría.</p>
+<p> 
+<h2>Fundación y origen:</h2>
+El asentamiento de San Francisco Magú se remonta al siglo XII, al igual que muchos otros pueblos otomíes en el Valle de México. 
+<h2>Nombre y significado:</h2>
+Su nombre original era San Francisco Nacazhuacan, pero luego fue cambiado a San Francisco Magú, debido a la frase otomí "maga ngú" (me voy a mi casa) que se usaba para despedirse. 
+<h2>Religión y costumbres:</h2>
+La iglesia de San Francisco Magú, fundada por la orden franciscana en el siglo XVIII, refleja la mezcla de la religión cristiana con las tradiciones y costumbres otomíes, que aún se mantienen. 
+<h2>Tradiciones:</h2>
+El pueblo celebra diversas tradiciones, como la bajada de cruces de un cerro cada septiembre y las ofrendas del Día de Muertos en noviembre. 
+<h2>Mitos y leyendas:</h2>
+Circulan diversos mitos sobre San Francisco Magú, como el hecho de que, según algunos pobladores, el pueblo está exento de pagar impuestos. 
+Reconocimiento como pueblo indígena:
+San Francisco Magú busca ser reconocido como pueblo indígena, debido a su historia y tradiciones otomíes</p>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTFjbjLnmdrpNzXCGxCEXWNsyA4ShuQcLXg&usqp=CAU alt="imagen de historia">
+    
+</body>
+</html>

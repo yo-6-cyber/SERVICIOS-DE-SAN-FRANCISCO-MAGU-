@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta http-equiv="content-type"content="text/html; charset=UTF-8">
+    <title>Sitio web Servicios de la Delegación y COPACI</title>
+    <link href="Servicios.css" rel="stylesheet"text/css>
+    </head>
+    <body>
+        <header id="encabezado">
+        <h1>Servicios de la Delegación y COPACI de San Francisco Magú</h1>
+        </header>
+    <nav id="boton">
+        <a href="index.html"> inicio</a>
+    </nav>
+        <div id="contenido">
+            <h2>Servicios</h2>
+            <ul>
+                <li>Agua.</li>
+                <li>Toma de agua.</li>
+                <li>Escrituras.</li>
+            </ul>
+            <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jChHIKuts2Jld8ZlvqeBRPi4ptspfKKTkA&s alt="imagen escrituras">
+        </div>
+        <div id="agua">
+            <h2>Agua</h2>
+                    <p>COPACI y delegación, le ofrece a la comunidad la disponibilidad de que tengan su toma de agua potable, con los requerimientos de mayores de edad y de la comunidad.</p>
+          <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGri3pj-BOQeB9sBOQ8hdaLJt_aScyxXWsBQ&s alt="imagen de agua">
+        </div>
+        <div id="fin">
+            <h2>Costos</h2>
+                     <p>Se paga 200 pesos cada bimestre.</p>
+            <p>Se empezó a pagar 200 pesos a partir del segundo bimestre del presente años por acuerdo de la asamblea.</p>
+            </body>
+            </html>
+          

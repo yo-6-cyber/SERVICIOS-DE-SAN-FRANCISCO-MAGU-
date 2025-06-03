@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="eventos.css">
+    <title>eventos</title>
+</head>
+<body>
+    <div id="contenedor">
+        <header id="encabezado">
+        <h1>
+            Servicios de delegación y copaci de San Francisco Magu 
+        </h1>
+        </header>
+        <nav id="boton">
+            <a href="index.html">Inicio</a>
+        </nav>
+    </div>
+    <div id="contedido">
+        <p>
+            En San Francisco Magú hay Eventos religiosos, hacen fiestas de la comunidad o Eventos en donde participa la comunidad 
+        </p>
+    </div>
+    <div id="cuerpo">
+        <h2>religión</h2>
+    </div>
+    <div>
+        <p>En San Francisco Magú hay Eventos religiosos, como para representar la comunidad, también  cada domingo hacen misa,bueno ai misa todos los dias pero en los domingos es donde regularmente van mas personas poque salen en familia
+        </p>
+        </div>
+        <section id="imga">
+        <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdu6JrNvlsYa3IFdEe8p1eAGPh6wX9N6mLw&s alt="imagen de religion" >
+    </section>
+    <div id="información">
+        <h2>
+            fiestas del pueblo 
+        </h2>
+        </div>
+        <p>
+            Las fiestas religiosas de San Francisco Magú se celebran en honor a San Francisco de Asís, el patrono de la comunidad, y se llevan a cabo principalmente en octubre. La fiesta más importante es la Fiesta Patronal, que generalmente tiene lugar durante los primeros días de octubre, coincidiendo con la fecha de su santo, el 4 de octubre. 
+En estas fiestas, la comunidad se une para celebrar con tradiciones, música, danzas, comidas típicas y actividades religiosas.<br><br>En San Francisco Magú, la fiesta patronal es una oportunidad para fortalecer la identidad cultural y religiosa de la comunidad, donde se respeta la tradición otomí.
+        </p>
+   <section id="imagen">
+        <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4gJOP_zF915EXPZzYiRrKtkCHHL8vCNOUw&s alt="imagen de fista">
+        </section>
+</body>
+</html>
+    

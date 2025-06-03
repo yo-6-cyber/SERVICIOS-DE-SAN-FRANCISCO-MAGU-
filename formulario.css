@@ -1,0 +1,25 @@
+body{
+    background-color: #FFF5E6;
+    font-family: Times New Roman;
+    text-align: center;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+#boton{
+    text-align: center;
+}
+#boton a{
+    display: block;
+    font-family:archivo black;
+    background-color: #C3DEFF;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 15px;
+    transition: background 0.3s;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta http-equiv="content-type"content-type= "TEXT/ HTML; charset-UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DELEGACIÓN Y COPACI</title>
+    <link rel="stylesheet"type="text/css"href="style.css">
+</head>
+<body>
+    <div id="contenedor">
+        <header id="encabezado">
+            <h1>
+                Servicios de la Delegación y COPACI 
+            </h1>
+        </header>
+        <nav id="menu">
+            <a href="COPACI Y DELEGACIÓN.html">COPACI Y DELEGACIÓN.<dr></a>
+            <a href="eventos.html">eventos.<dr></a>
+            <a href="Servicios.html">Servicios.<dr></a>
+            <a href="formulario.html">formulario.<dr></a>
+        </nav>
+            <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurUGjDdTLwuZHNqSzH5hKMGHrE0o0knM8nw&s alt="San Francisco Magú">
+    </section>
+    <div id="cuerpo">
+        <p> San Francisco Magú o Nacazcahuacán es un poblado indígena mexicano otomí, está situado en el Municipio de Nicolás Romero, al norte del Estado de México.</p>
+    </div>
+    <footer id="piedepagina">
+        <p>Para más información de delegación y COPACI
+        <br> teléfono de contacto###</p>
+    </footer>
+    
+</body>
+
+</html>
