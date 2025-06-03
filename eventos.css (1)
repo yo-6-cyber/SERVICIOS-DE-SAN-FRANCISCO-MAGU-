@@ -1,0 +1,30 @@
+body{
+    background-color: #FFF5E6;
+    text-align: center;
+} 
+#encabezado{
+    text-align: Center;
+    font-family: archivo black;
+    width: 90%;
+}
+#boton a{
+    display: block;
+    font-family:archivo black;
+    background-color: #C3DEFF;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 15px;
+    transition: background 0.3s;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+p{
+    font-family: Times New Roman;
+    text-align: center;
+}
+h2{
+    font-family: public sans;
+    text-align: center;
+}
